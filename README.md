@@ -14,8 +14,6 @@ N/A
 
 Website that can help the client with social media presence.
 
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
